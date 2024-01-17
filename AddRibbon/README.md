@@ -58,3 +58,10 @@ This project is licensed under the [CCtech](LICENSE).
 
 ## Output
 
+![Load](https://github.com/Coderanildangi/Revit_API/assets/149321466/23e68090-dbc8-4365-a745-9fa133dd5557)
+
+![Ribbon1](https://github.com/Coderanildangi/Revit_API/assets/149321466/b2d2da45-72e9-4e3d-8bc2-23e20b8d137f)
+
+![Ribbon2](https://github.com/Coderanildangi/Revit_API/assets/149321466/0cb3bde5-c883-4784-8bba-4bfac2e171d5)
+
+
